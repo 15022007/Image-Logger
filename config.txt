@@ -1,0 +1,3 @@
+webhook = "WEBHOOK HERE"
+username = "Username of the webhook"
+avatar_url = "Avatar of the webhook"
